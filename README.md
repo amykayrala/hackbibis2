@@ -41,3 +41,5 @@ A comprehensive web application for detecting, tracking and managing potential s
 - **Database**: Managed PostgreSQL (provided by Gadget)
 - **Authentication**: Built-in Gadget user authentication system
 - **Hosting**: Automatic deployment via Gadget platform
+
+Check it out here: https://hackbibis.gadget.app 
